@@ -1,0 +1,6 @@
+n_battle.gif
+n_global.gif
+n_mail.gif
+n_mark.gif
+n_news.gif
+n_settings.gif
