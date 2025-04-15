@@ -1,3 +1,5 @@
+let rootURL = 'https://meta-glot.github.io/rythicmeign';
+
 document.addEventListener("DOMContentLoaded", function(event) { /* begin "DOMContentLoaded" event */
 
     Vue.component( 'navbar', {
@@ -7,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function(event) { /* begin "DOMCon
                     <tr>
                         <td bgcolor="#141d26" align="left" height="35" width="78%">
                             &nbsp;&nbsp;&nbsp;&nbsp;
-                            <a alt="House" title="House" href="https://meta-glot.github.io/rythicmeign" class="navheader">House</a> &nbsp;&nbsp;&nbsp;&nbsp;
+                            <a alt="House" title="House" href="${rootURL}" class="navheader">House</a> &nbsp;&nbsp;&nbsp;&nbsp;
                             <a alt="Tasks" title="Tasks" href="https://meta-glot.github.io/rythicmeign" class="navheader">Tasks</a> &nbsp;&nbsp;&nbsp;&nbsp;
                             <a alt="Domain" title="Domain" href="https://meta-glot.github.io/rythicmeign" class="navheader">Domain</a> &nbsp;&nbsp;&nbsp;&nbsp;
                             <a alt="Sidon" title="Sidon" href="https://meta-glot.github.io/rythicmeign" class="navheader">Sidon</a> &nbsp;&nbsp;&nbsp;&nbsp;
